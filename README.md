@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Sravan
 
-<!--
-**z-ephyrus/z-ephyrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+part builder, full-time learner. I thrive on breaking things down, then building them back better.
 
-Here are some ideas to get you started:
+### 💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Currently crafting `Time Capsule Archiver` — a C++ tool that seals your files with password or time-based locks.
+- ⚙️ Skilled in C++, with working knowledge of Go and JavaScript — and a strong interest in clever systems and tool building.
+- 🧩 Passionate about creative projects, automation, and making software that feels like solving a mystery.
+
+### 📚 Always Learning About
+- Low-level programming (memory, performance, internals)
+- Security-minded development
+- Clean, scalable system design
+
+### 🌟 Fun Facts
+- 🌙 Night owl dev — you’ll usually find me coding past midnight
+- 🏃‍♂️ Athletic by habit — when I’m not solving memory bugs, I’m probably running or training
+
+---
+
+### 📫 Let's Connect
+
+Feel free to explore my projects, drop an issue, or collaborate. If you're into clever tools, strange bugs, or puzzle-box software — we’ll get along just fine.
+
+🔓 Let's build something weird and wonderful. 
