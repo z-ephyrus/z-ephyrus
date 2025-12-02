@@ -4,7 +4,7 @@ part builder, full-time learner. I thrive on breaking things down, then building
 
 ### 💻 What I Do
 
-- 🛠️ Currently crafting `Time Capsule Archiver` — a C++ tool that seals your files with password or time-based locks.
+- 🛠️ Currently crafting `Prompt Optimizer` — tool designed to automatically refine, restructure, or rewrite an initial, natural language prompt to achieve a better, more accurate, or desired output from a Large Language Model (LLM).
 - ⚙️ Skilled in C++, with working knowledge of Go and JavaScript — and a strong interest in clever systems and tool building.
 - 🧩 Passionate about creative projects, automation, and making software that feels like solving a mystery.
 
